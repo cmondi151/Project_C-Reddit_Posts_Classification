@@ -1,4 +1,4 @@
-## Colin Mondi - Reddit Post Classification
+## Colin Mondi - Reddit Posts Classification
 
 ### Problem Statement
 
