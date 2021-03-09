@@ -26,4 +26,3 @@ I created two different types of "post-to-subreddit" prediction model; Logistic 
 To summarize, both models successfully predicted the correct subreddit a post originated from for majority of cases. 
 
 Although the Logistic Regression model has slightly better R-squared score and RMSE value, the difference in both metrics is too close to draw any conclusions. But the train, test, and k-Fold cross val scores for the Logistic Regression model indicate overfitting, while this is not the case for the Naive Bayes model. Given this, I believe the Naive Bayes model is the better option for the task at hand.
-
